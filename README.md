@@ -12,3 +12,6 @@ Installation:
 2. Rendez-vous dans le dossier: `cd sound-bot`
 3. Installez les dépendances: `npm install`
 4. Compilez le code: `npm run build`
+
+# Author
+- [IchiiDev](https://github.com/IchiiDev)
