@@ -7,9 +7,12 @@
     "serve": "node checker/index.js",
     "build": "tsc",
     "dev": "node dist/index.js",
-    "start" : "npm run build && npm run dev"
+    "start": "npm run build && npm run dev"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^20.1.0"
+  }
 }
